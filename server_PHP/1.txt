@@ -1,0 +1,12 @@
+2018-08-15 06:57:53
+WSX97213BBE
+10.211.55.3
+ca1b9a12-1b61-4670-8dd7-5cd724890de9
+whitelist_mode
+有如下白名单中未配置的进程:
+QQPCRealTimeSpeedup
+MSBuild
+QQPCTray
+QQPCRTP
+git
+
