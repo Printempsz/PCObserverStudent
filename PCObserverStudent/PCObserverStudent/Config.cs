@@ -13,7 +13,7 @@ namespace PCObserverStudent
         private string ans;
         public Config()
         {
-            string url = "http://192.168.1.131:2333/admin.php";
+            string url = "http://localhost:8000/admin.php";
             HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url);
             HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
             Stream stream = resp.GetResponseStream();

@@ -8,3 +8,13 @@
 \\Mac\Home\Downloads\晴空暑假\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.csproj.CoreCompileInputs.cache
 \\Mac\Home\Downloads\晴空暑假\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.exe
 \\Mac\Home\Downloads\晴空暑假\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.pdb
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\bin\Debug\PCObserverStudent.exe.config
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\bin\Debug\PCObserverStudent.exe
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\bin\Debug\PCObserverStudent.pdb
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.csprojAssemblyReference.cache
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.Form1.resources
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.Properties.Resources.resources
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.csproj.GenerateResource.cache
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.csproj.CoreCompileInputs.cache
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.exe
+C:\Users\zhl19\PCObserverStudent\PCObserverStudent\PCObserverStudent\obj\Debug\PCObserverStudent.pdb

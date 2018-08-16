@@ -44,6 +44,8 @@
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(301, 26);
             this.textBox1.TabIndex = 0;
+            this.textBox1.ReadOnlyChanged += new System.EventHandler(this.Form1_Load);
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
@@ -92,6 +94,8 @@
             this.richTextBox1.Size = new System.Drawing.Size(301, 237);
             this.richTextBox1.TabIndex = 6;
             this.richTextBox1.Text = "";
+            this.richTextBox1.ReadOnlyChanged += new System.EventHandler(this.Form1_Load);
+            this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // Form1
             // 
